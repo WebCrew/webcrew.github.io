@@ -1,2 +1,2 @@
 # webcrew.github.io
-WebCrew`s GitHub homepage to show, promote or just write some infos about all of my repositories and web-development adventures.
+WebCrew`s GitHub homepage to write some basic infos about me, my experience and web-development adventures.
